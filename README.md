@@ -2,7 +2,7 @@
 
 ## Gustavo deodato
 
-![](Captura de Tela 2024-09-04 às 09.26.07.png)
+![](./Captura%20de%20Tela%202024-09-04%20%C3%A0s%2009.26.07.png)
 
 ---
 ### Sobre
